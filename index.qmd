@@ -1,5 +1,11 @@
 ---
-title: "piotrkoc.github.io"
+title: "Piotr Koc"
+image: MyPic.png
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  
 ---
 
 This is a Quarto website.
