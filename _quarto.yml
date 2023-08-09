@@ -3,18 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "piotrkoc.github.io"
+  title: "Piotr Koc"
   navbar:
+    background: "#E5E4E2"
+    foreground: "black"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
+      - text: "CV"
+        href: CV_07_2023_Piotr_Koc.pdf
 
+      
+      
 format:
   html:
-    theme: cosmo
+    theme: sandstone
+    mainfont: ariel
+    fontcolor: "#000000"
+    linkcolor: "black"
     css: styles.css
     toc: true
-
-
+    grid:
+      sidebar-width: 50px
+      margin-width: 150px
+      body-width: 1050px
 

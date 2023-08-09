@@ -3,15 +3,32 @@ title: "Piotr Koc"
 image: MyPic.png
 about: 
   template: trestles
-  image-shape: round
+  image-shape: rectangle
   image-width: 15em
-  
+
+  links:
+  - text: "{{< fa envelope size=2x >}}"
+    href: mailto:piotr.koc(at)ifispan.edu.pl
+  - text: "{{< ai google-scholar size=2x >}}"  
+    href: "https://scholar.google.com/citations?user=EcGXoYcAAAAJ&hl=pl"
+  - text: "{{< ai researchgate size=2x >}}" 
+    href: "https://www.researchgate.net/profile/Piotr-Koc-3"
+  - text: "{{< ai orcid size=2x >}}"  
+    href: "https://orcid.org/my-orcid?orcid=0000-0003-2152-4594"
+    
+id: ppc
+
 ---
 
-This is a Quarto website.
+:::{#ppc}
+I am a political scientist and sociologist, currently a PhD candidate at the Institute of Philosophy and Sociology, Polish Academy of Sciences. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research focuses on three areas: 
 
-```{r}
-1 + 1
-```
+**Political Methodology**: I specialize in measurement, with a particular emphasis on latent dynamic models that can handle temporal data structures and are capable of integrating data from multiple survey projects. I also have a keen interest in Bayesian statistics. 
+
+**Comparative Political Behavior**:  My research in this area is centered around two themes. First, I focus on political participation, addressing various conceptual and measurement challenges related to this construct. Second, I examine how events such as campaigns against minorities can activate collective identities, leading to expressive political behavior.
+
+**LGBT+ Politics**:  My research interests also encompass LGBT+ politics, particularly the questions of how LGBT-related issues get politicized and what determines public opinion towards LGBT+ individuals.
+
+:::

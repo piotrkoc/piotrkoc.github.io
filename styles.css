@@ -1,1 +1,52 @@
 /* css styles */
+.navbar  a {
+    font-size: 1.5em; /* 1.5 times the original size */
+}
+
+.navbar .nav-item a {
+    font-size: 1.01em; /* 1.5 times the original size */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+.navbar a:hover,
+.navbar .nav-item a:hover {
+  color: #555555 !important; /* Color on hover: darker than dark grey */
+}
+
+.navbar a.active,
+.navbar .nav-item a.active {
+   color: black!important; /* Color for the active link: black */
+   font-weight: bold; /* Make the text bold */
+}
+
+
+.sidebar nav[role="doc-toc"] ul > li > a {
+  color: grey !important;
+}
+
+/* Color when hovered or active (clicked) */
+.sidebar nav[role="doc-toc"] ul > li > a.active,
+.sidebar nav[role="doc-toc"] ul > li > ul > li > a.active,
+.sidebar nav[role="doc-toc"] ul > li > a:hover,
+.sidebar nav[role="doc-toc"] ul > li > ul > li > a:hover {
+  border-left: none !important;
+  color: black !important; /* Black text on hover or active */
+  background-color: transparent !important;
+}
+
+
+/* Change color to dark grey when hovered over */
+#quarto-document-content a:hover {
+  color: darkgrey; /* Color on hover: dark grey */
+}
+
+
+
+
+
+ 
+ 
+ 

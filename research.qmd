@@ -1,0 +1,36 @@
+---
+title: "Research"
+editor: visual
+---
+
+## Published & Under Review
+
+-   **Koc**, P. (Revise & Resubmit). "Beyond Continuous vs. Categorical Dichotomy: Uncovering Latent Structure of Non-electoral Political Participation Using Zero-Inflated Models". *Social Indicators Research* .
+
+> While modeling political participation as a latent variable, researchers usually choose whether to conceptualize and model participation as a latent continuous or latent categorical variable. When participation is modeled as a continuous variable, factor analytic and item-response theory models are used. When modeled as a categorical variable, latent class analysis is employed. However, both conceptualizations and modeling approaches rest upon very strong assumptions. In the continuous case, all subjects are assumed to come from the same homogenous population; in the categorical case, we assume that no quantitative heterogeneity exists within the latent classes. In this work, I argue that these assumptions are implausible and propose to model participation using zero-inflated measurement and regression models that assume the existence of two latent classes – politically disengaged and politically active – with the latter class being quantitatively heterogenous (people in that class are thought to participate to a varying degree). The results show that the models accounting for the latent class of politically disengaged have much better out-of-sample predictive accuracy. Moreover, modeling the zero-inflation changes estimates of measurement and regression models, and offers new research opportunities because with zero-inflated models we can explicitly tackle the question of what impacts the probability of ending up in the latent class of politically disengaged.  
+
+-   **Koc**, P. & A. Pokropek (2022). ["Accounting for Cross-Country-Cross-Time Variations in Measurement Invariance Testing. A Case of Political Participation"](https://ojs.ub.uni-konstanz.de/srm/article/view/7909). *Survey Research Methods* 16(1), 79-96. 
+
+> In many works involving measurement invariance testing, researchers concentrate on one type of grouping only, such as countries, even when the comparisons they make involve multiple types of grouping, such as countries and years. In this article, we propose a procedure allowing to incorporate more than one type of grouping into the invariance testing. For that, we use the example of political participation which is often studied in a comparative perspective where both countries and years are considered. The results show that the comparability of levels of political participation in Europe over the last 20 years is limited. With a simulation study, we show that one remedy for this could be alignment optimization which produces more accurate estimates of means and standard errors. Furthermore, we demonstrate that ignoring the non-invariance can change our substantive conclusions regarding the aggregated trends of participation
+
+-   **Koc**, P. (2021). ["Measuring Non-electoral Political Participation: Bi-factor Model as a Tool to Extract Dimensions"](https://link.springer.com/article/10.1007/s11205-021-02637-3). *Social Indicators Research* 156, 271--287. 
+
+> Political participation is a mainstay of political behavior research. One of the main dilemmas many researchers face pertains to the number of dimensions of political participation, i.e. whether we should model political participation as a unidimensional or multidimensional latent construct. Over the years, scholars usually have favored the solution with more than one dimension of political participation and they have backed the claim of multiple dimensions with a number of empirical tests. In this paper, I argue that the results from the frequently used testing procedures which rely on the model fit inspection and the Kaiser criterion can be very misleading and may yield in extracting too many dimensions. By employing bi-factor modeling to a European Social Survey dataset, I show that in a majority of countries political participation can be considered an essentially unidimensional latent quantity. I demonstrate that additional dimensions of political participation are very weak and unreliable and that we cannot regress them on external variables nor build composite scores based on them. These findings cast doubt on the conclusions of numerous previous studies where researchers modeled more than one dimension of political participation.
+
+## Ongoing Projects
+-    **Koc**, P. & M. Steenbergen "Challenges of Analyzing Policy-Driven Shifts in Public Opinion in Cross-National Settings: The Case of Rights for Same-Sex Couples"
+
+> The project focuses on the challenges of analyzing policy-induced changes in public opinion in cross-national settings: atomistic fallacy, measurement invariance, and causal identification. Using data from multiple survey projects and the case of rights for same-sex couples, we show how to address those issues in practice
+
+- **Koc**, P., Żółtak T. & M. Steenbergen "How Well Can We Estimate Public Opinion Country-Year Trends from Multiple Survey Projects? A Monte Carlo Simulation"
+
+> Together with Tomasz Żółtak and Marco Steenbergen, we test how well available dynamic group-IRT models recover latent means. For that, we have prepared and executed an extensive simulation study. 
+
+- **Koc**, P. & N. Letki "Collective Efficacy and Neighbourhood Disorder: Evidence from a Large Scale Survey
+in Central-Eastern Europe"
+
+ >Collective efficacy, defined as social cohesion and informal control, has proven relevant for explaining levels of crime and disorder, as cohesion enables control, which in turn keeps disorderly behaviour in check. Here, we propose a refined model, where social cohesion directly influences disorder, independently of informal control. We use a unique neighbourhood disorder measure based on interviewers’ standardised ratings and merge it with a large-scale survey of 19,946 individuals clustered in 949 neighbourhoods in 13 countries of Central-Eastern Europe. We apply Multilevel Structural Equation Modelling, which allows us to reliably model contextual effects with micro-level data aggregated to the low administrative—municipality or city
+district—level. Our results show that social cohesion is associated with significantly lower levels of physical disorder in the neighbourhood, while informal control has no effect, controlling for the neighborhood status and ethnic diversity
+
+
+
