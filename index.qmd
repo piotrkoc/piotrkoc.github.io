@@ -21,7 +21,7 @@ id: ppc
 ---
 
 :::{#ppc}
-I am a political scientist and sociologist, currently a PhD candidate at the Institute of Philosophy and Sociology, Polish Academy of Sciences. 
+I am a political scientist and sociologist, currently a Research Assistant at the Institute of Philosophy and Sociology, Polish Academy of Sciences. 
 
 My research focuses on three areas: 
 
